@@ -4,7 +4,7 @@
 # of every workspace over a time window: commits, change volume, branch, and
 # whether the work landed anywhere.
 #
-# Install:   herdr plugin install moneycaringcoder/herdr-standup
+# Install:   herdr plugin install mcc0x/herdr-standup
 # Local dev: herdr plugin link /path/to/herdr-standup   (does NOT run [[build]])
 # Remove:    herdr plugin unlink moneycaringcoder.standup
 # Logs:      herdr plugin log list --plugin moneycaringcoder.standup

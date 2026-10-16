@@ -13,7 +13,7 @@ Every entry this file held has landed, and each was retired in the pull request
 that landed it. `CHANGELOG.md` is the record of what they turned into.
 
 Known problems found while building those, and filed rather than guessed at, are
-in the [issue tracker](https://github.com/moneycaringcoder/herdr-standup/issues)
+in the [issue tracker](https://github.com/mcc0x/herdr-standup/issues)
 instead: an observed defect belongs there, where it can carry the measurement
 that found it, rather than here among ideas.
 
