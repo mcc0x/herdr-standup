@@ -7,7 +7,7 @@
 **A digest of what your agents actually did. One command, one readable summary of every workspace
 over a time window — commits, change volume, branch, and whether the work landed anywhere.**
 
-[![CI](https://github.com/moneycaringcoder/herdr-standup/actions/workflows/ci.yml/badge.svg)](https://github.com/moneycaringcoder/herdr-standup/actions/workflows/ci.yml)
+[![CI](https://github.com/mcc0x/herdr-standup/actions/workflows/ci.yml/badge.svg)](https://github.com/mcc0x/herdr-standup/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![herdr](https://img.shields.io/badge/herdr-%E2%89%A5%200.8.0-8b949e.svg)](https://herdr.dev)
 [![read-only](https://img.shields.io/badge/your%20repos-never%20written%20to-2da44e.svg)](#it-never-writes-to-your-repositories)
@@ -552,13 +552,13 @@ report.
 ## Install
 
 ```sh
-herdr plugin install moneycaringcoder/herdr-standup
+herdr plugin install mcc0x/herdr-standup
 ```
 
 For local development:
 
 ```sh
-git clone https://github.com/moneycaringcoder/herdr-standup
+git clone https://github.com/mcc0x/herdr-standup
 cd herdr-standup
 cargo build --release
 herdr plugin link .          # note: `link` does NOT run the build step

@@ -65,7 +65,7 @@ too, on purpose: a version nobody can look up is not a version.
 ## Getting set up
 
 ```sh
-git clone https://github.com/moneycaringcoder/herdr-standup
+git clone https://github.com/mcc0x/herdr-standup
 cd herdr-standup
 cargo build --release
 herdr plugin link .          # note: `link` does NOT run the build step
